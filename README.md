@@ -28,7 +28,7 @@ This repository contains my daily practice of Data Structures and Algorithms usi
 I solve problems daily and keep updating this repository.
 
 ## 🔗 Connect with Me
-- LinkedIn: (Add your profile link)
+- LinkedIn: linkedin.com/in/praveenvpk
 
 ---
 ⭐ If you find this helpful, feel free to star the repo!
