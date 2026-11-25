@@ -1,34 +1,16 @@
-# LeetCode-DSA-Journey
-Daily Data Structures &amp; Algorithms practice with LeetCode problems, solutions, and explanations.
+# React + Vite
 
-# 📘 DSA Practice (LeetCode)
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-This repository contains my daily practice of Data Structures and Algorithms using LeetCode.
+Currently, two official plugins are available:
 
-## 🚀 Goals
-- Improve problem-solving skills
-- Strengthen DSA concepts
-- Prepare for coding interviews
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## 📂 Structure
-- Problems are organized by topic:
-  - Arrays
-  - Strings
-  - Linked List
-  - Stack & Queue
-  - Trees
-  - Graphs
-  - Dynamic Programming
+## React Compiler
 
-## 🛠️ Languages Used
-- Java (Primary)
-- (Add others if you use)
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## 📅 Progress
-I solve problems daily and keep updating this repository.
+## Expanding the Oxlint configuration
 
-## 🔗 Connect with Me
-- LinkedIn: linkedin.com/in/praveenvpk
-
----
-⭐ If you find this helpful, feel free to star the repo!
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
